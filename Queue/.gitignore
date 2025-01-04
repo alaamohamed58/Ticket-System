@@ -1,0 +1,8 @@
+*.vcxproj.user
+*.filters
+*.suo
+*.ncb
+*.log
+x64/
+Debug/
+Release/
